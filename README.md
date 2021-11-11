@@ -2,7 +2,13 @@
 
 ## Description
 
-This a small re-write of [ZAD4YTV's esx_policejob](https://github.com/ZAD4YTV/esx_policejob) and the code for having the AI Police not attack Player Police [Schwim](https://forum.cfx.re/u/schwim/summary)
+This a small rewrite-of/addition-to [ZAD4YTV's esx_policejob](https://github.com/ZAD4YTV/esx_policejob) with editionof code from [Schwim](https://forum.cfx.re/u/schwim/summary)
+
+This allows the Player Police to "assist" the AI Police. The AI police will now no longer attack Player's with a 'police job'. Players with a police job cannot obtain a wanted level. After a desired number of player police are online the 
+
+#### Possible To-Do List
+- Disable AI after configurable set number of Player Police are Online
+- Allow AI police to target Player Police who trigger wanted level events.
 
 ### Download & Instalation
 
